@@ -16,7 +16,7 @@ public class HorarioFuncionamentoController {
     private HorarioFuncionamentoRepository horarioFuncionamentoRepository;
 
     @GetMapping
-    public List<HorarioFuncionamento> listar(){
+    public List<HorarioFuncionamento> listarTodos(){
         return horarioFuncionamentoRepository.findAll();
     }
 

@@ -1,4 +1,4 @@
-// Controller responsável por horários de funcionamento
+// Controller responsável pelos horários de funcionamento
 
 package br.com.etechas.etecfood.controller;
 

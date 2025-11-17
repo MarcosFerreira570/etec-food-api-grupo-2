@@ -1,3 +1,5 @@
+// Controller responsável por horários de funcionamento
+
 package br.com.etechas.etecfood.controller;
 
 import br.com.etechas.etecfood.entity.HorarioFuncionamento;
